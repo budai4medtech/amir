@@ -55,4 +55,8 @@ dependencies:
     - opencv-contrib-python-headless
     - pydot
     - scikit-image
+    - rouge
+    - transformers   
+    - sacremoses
+    - graphviz
     #- scikit-learn

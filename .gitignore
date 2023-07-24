@@ -24,6 +24,9 @@ Extract_dataset.csv
 **/Train_Data.csv
 **/brucechou1983_CheXNet_Keras_0.3.0_weights.h5
 **/Image_features_attention.pickle
+**/glove.42B.300d.txt
+**/Tensorboard/
+**/model.png
 
 ## temporal files for local tex build
 **/*.aux
