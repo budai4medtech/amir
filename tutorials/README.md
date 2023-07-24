@@ -2,7 +2,6 @@
 
 ## Launching demos
 ```
-conda activate *VE
-jupyter notebook --browser=firefox
+mamba activate amirVE && jupyter notebook --browser=firefox
 ```
 
