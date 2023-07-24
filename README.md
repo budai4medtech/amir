@@ -1,4 +1,4 @@
-# Automatic Medical Image Report (amir)
+# Automatic Medical Image Reporting (amir)
 
 ## Clone repository
 * Generate your SSH keys as suggested [here](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) (or [here](https://github.com/mxochicale/tools/blob/main/github/SSH.md))
@@ -24,7 +24,18 @@ Thanks goes to all these people ([emoji key](https://allcontributors.org/docs/en
 		</a>
 		<br />
 			<!-- ADD GITHUB REPOSITORY AND PROJECT, TITLE AND EMOJIS -->
-			<a href="https://github.com/budai4medtech/febusis/commits?author=" title="Research">  🔬 🤔  </a>
+			<a href="https://github.com/budai4medtech/amir/commits?author=" title="Research">  🔬 🤔  </a>
+	</td>
+	<!-- CONTRIBUTOR -->
+	<td align="center">
+		<!-- ADD GITHUB USERNAME AND HASH FOR GITHUB PHOTO -->
+		<a href="https://github.com/0-0zhuxiaoning"><img src="https://avatars1.githubusercontent.com/u/113194678?v=4?s=100" width="100px;" alt=""/>
+		<br />
+			<sub> <b>Xiaoning Zhu</b> </sub>        
+		</a>
+		<br />
+			<!-- ADD GITHUB REPOSITORY AND PROJECT, TITLE AND EMOJIS -->
+			<a href="https://github.com/budai4medtech/amir/commits?author=" title="Research">  🔬 🤔  </a>
 	</td>
 	<!-- CONTRIBUTOR -->
 	<td align="center">
@@ -33,8 +44,8 @@ Thanks goes to all these people ([emoji key](https://allcontributors.org/docs/en
 			<sub><b>Miguel Xochicale</b></sub>          
 			<br />
 		</a>
-			<a href="https://github.com/budaid4medtech/febusis/commits?author=mxochicale" title="Code">💻</a> 
-			<a href="ttps://github.com/budai4medtech/febusis/commits?author=mxochicale" title="Documentation">📖  🔧 </a>
+			<a href="https://github.com/budaid4medtech/amir/commits?author=mxochicale" title="Code">💻</a> 
+			<a href="ttps://github.com/budai4medtech/amir/commits?author=mxochicale" title="Documentation">📖  🔧 </a>
 	</td>
   </tr>
 </table>
@@ -45,4 +56,3 @@ Thanks goes to all these people ([emoji key](https://allcontributors.org/docs/en
 
 This work follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.  
 Contributions of any kind welcome!
-
