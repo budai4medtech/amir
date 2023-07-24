@@ -7,10 +7,13 @@ import torchvision
 #import functorch
 #import h5py
 #import albumentations
-#import sklearn
+import sklearn
 #import plotly
 #import pandas
 import PIL
+import tensorflow as tf
+import notebook
+
 
 
 print(f'python: {sys.version}')
@@ -24,7 +27,9 @@ print(f'torch cuda.device_count  {torch.cuda.device_count()}')
 print(f'PIL: {PIL.__version__}')
 #print(f'h5py: {h5py.__version__}')
 #print(f'albumentations: {albumentations.__version__}')
-#print(f'sklearn version: {sklearn.__version__}')
+print(f'sklearn version: {sklearn.__version__}')
 #print(f'plotly version: {plotly.__version__}')
 #print(f'pandas version: {pandas.__version__}')
+print(f'tensorflow version: {tf.__version__}')
+print(f'notebook version: {notebook.__version__}')
 
