@@ -35,7 +35,9 @@ Thanks goes to all these people ([emoji key](https://allcontributors.org/docs/en
 		</a>
 		<br />
 			<!-- ADD GITHUB REPOSITORY AND PROJECT, TITLE AND EMOJIS -->
-			<a href="https://github.com/budai4medtech/amir/commits?author=" title="Research">  🔬 🤔  </a>
+			<a href="https://github.com/budaid4medtech/amir/commits?author=0-0zhuxiaoning" title="Code">💻</a> 
+			<a href="ttps://github.com/budai4medtech/amir/commits?author=0-0zhuxiaoning" title="Documentation">📖  🔧 </a>
+			<a href="https://github.com/budai4medtech/amir/commits?author=0-0zhuxiaoning" title="Research">  🔬 🤔  </a>
 	</td>
 	<!-- CONTRIBUTOR -->
 	<td align="center">
@@ -46,6 +48,7 @@ Thanks goes to all these people ([emoji key](https://allcontributors.org/docs/en
 		</a>
 			<a href="https://github.com/budaid4medtech/amir/commits?author=mxochicale" title="Code">💻</a> 
 			<a href="ttps://github.com/budai4medtech/amir/commits?author=mxochicale" title="Documentation">📖  🔧 </a>
+			<a href="https://github.com/budai4medtech/amir/commits?author=mxochicale" title="Research">  🔬 🤔  </a>
 	</td>
   </tr>
 </table>
