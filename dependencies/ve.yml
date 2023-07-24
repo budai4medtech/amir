@@ -41,7 +41,6 @@ dependencies:
     - notebook
     - jupyter
     - jupyter_contrib_nbextensions
-    #- scikit-image
     #- datasets
     #- diffusers
     #- pillow
@@ -55,4 +54,5 @@ dependencies:
     - nltk
     - opencv-contrib-python-headless
     - pydot
-    - scikit-learn
+    - scikit-image
+    #- scikit-learn
