@@ -1,31 +1,28 @@
 ## USAGE
 ## cd ../dependencies
-## conda update -n base -c defaults conda  ## UPDATE CONDA
-## conda list -n *VE # show list of installed packages
-## conda env create -f *ve.yml   		    ## INSTALL
-## conda env update -f *ve.yml --prune  	## UPDATE
-## conda activate *VE			    ## ACTIVATE
-## conda remove -n *VE --all   ## REMOVE
+## mamba update -n base -c defaults conda  ## UPDATE CONDA
+## mamba list -n *VE # show list of installed packages
+## mamba env create -f *ve.yml   		    ## INSTALL
+## mamba env update -f *ve.yml --prune  	## UPDATE
+## mamba activate *VE			    ## ACTIVATE
+## mamba remove -n *VE --all   ## REMOVE
 
 ## QUICK TEST OF THE AVAILABILITY OF CUDA
-## conda activate *VE
+## mamba activate *VE
 ## python
 ## import torch
 ## torch.cuda.is_available()
 
 name: amirVE
 channels:
-  - defaults
-  - pytorch # https://anaconda.org/pytorch/torchvision
-  - nvidia
-  - anaconda # seaborn; pandas; scikit-learn; jupyter; h5py; libgcc
-  - conda-forge # albumentations; torchinfo; ipywidgets; pytables
+  - conda-forge
 dependencies:
-  - pytorch=1.11.*
-  - torchvision=0.12.*
+  - pytorch
+  - torchvision
   - torchinfo
   - python=3.10.*
-  - cudatoolkit=11.*.*
+  - cudatoolkit
+  - tensorflow
   #- json
   #- seaborn=0.11.1 # 0.11.2 will creat https://github.com/Baukebrenninkmeijer/table-evaluator/issues/26
   #- ipywidgets
@@ -44,7 +41,6 @@ dependencies:
     - notebook
     - jupyter
     - jupyter_contrib_nbextensions
-    #- scikit-image
     #- datasets
     #- diffusers
     #- pillow
@@ -57,3 +53,10 @@ dependencies:
     - tqdm
     - nltk
     - opencv-contrib-python-headless
+    - pydot
+    - scikit-image
+    - rouge
+    - transformers   
+    - sacremoses
+    - graphviz
+    #- scikit-learn
