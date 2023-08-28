@@ -1,6 +1,6 @@
-# amir library
+# amir
 
-Launching VE and running models in jupyter
+## Launching VE and running models in jupyter
 ```
 mamba activate amirVE && jupyter notebook --browser=firefox
 ```
